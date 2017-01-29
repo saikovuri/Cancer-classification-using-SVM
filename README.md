@@ -1,1 +1,1 @@
-# Cancer-classification-using-SVM
+Machine learning course project to Classify Cancer Using Support Vector Machine. We determined the confidence level in classifying two types of leukemia cancer known as ALL and AML based on microarray data using SVM classifier Cancer-classification-using-SVM
